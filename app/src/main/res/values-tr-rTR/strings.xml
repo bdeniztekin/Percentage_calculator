@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yüzde Hesaplayıcı</string>
+    <string name="ok">Tamam</string>
+    <string name="cancel">İptal</string>
+    <string name="yuzdetxt">Yüzde oranını girin</string>
+    <string name="yuzdesayitxt">Yüzdesini bulmak istediğiniz sayıyı girin</string>
+    <string name="calculate">Hesapla</string>
+    <string name="welcometxt">Hoşgeldiniz</string>
+    <string name="result">"Sonuç: "</string>
+    <string name="AuthorText">"Yazan: "</string>
+</resources>
